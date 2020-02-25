@@ -1,0 +1,18 @@
+/* Global */
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 60px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-size: 18px;
+    color: #009432;
+    margin: 0;
+}
+h1{
+    margin: 0 12px 0 0;
+}
