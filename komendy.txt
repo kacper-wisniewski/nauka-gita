@@ -1,4 +1,4 @@
 
-html-validate index.html
+html-validate *.html
 
-autoprefixer-cli -o main.prefixed.css main.css
+autoprefixer-cli -o style.prefixed.css css/style.css
